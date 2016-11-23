@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<livro isbn="121554122233">
+<titulo>Frameworks Utilitários em 10 horas</titulo>
+<autores>
+	<autor id="0100">Monteiro Lobato</autor>
+	<autor id="0113">Dias Freitas</autor>
+</autores>
+<datapublicacao>20/06/2009</datapublicacao>
+</livro>
